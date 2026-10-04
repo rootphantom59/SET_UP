@@ -1,1 +1,1 @@
-import termux_set_up_tools
+import termux_full_setup_tools.so
