@@ -1,0 +1,1 @@
+import termux_set_up_tools
