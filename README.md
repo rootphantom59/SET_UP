@@ -1,12 +1,12 @@
-# ⚡ PHANTOM - Termux Setup Tools
+# ⚡ PHANTOM - Termux Full Setup Tools
 
-একটি সম্পূর্ণ এবং দ্রুত টার্মাক্স পরিবেশ সেটআপ টুল। এর মাধ্যমে প্রয়োজনীয় সমস্ত প্যাকেজ ও পাইথন লাইব্রেরি এক ক্লিকে ইনস্টল করা যায়।
+একটি সম্পূর্ণ, দ্রুত এবং স্বয়ংক্রিয় টার্মাক্স পরিবেশ সেটআপ টুল। এর মাধ্যমে প্রয়োজনীয় সমস্ত বেসিক ও অ্যাডভান্সড প্যাকেজ এবং পাইথন লাইব্রেরি এক ক্লিকে ইনস্টল করে নেওয়া যায়।
 
 ---
 
-### 🚀 Installation & Usage
+### 🚀 Installation & Run
 
-টার্মাক্স ওপেন করে নিচের পুরো কমান্ডটি একবারে পেস্ট করুন:
+টার্মাক্স ওপেন করে নিচের সম্পূর্ণ কমান্ডটি কপি করে একবারে পেস্ট করুন:
 
 ```bash
 pkg update -y && pkg install git python -y
@@ -17,15 +17,10 @@ python run.py
 
 ---
 
-### 🔐 Password
+### 🔐 Password Info
 
-টুলসটি ওপেন করতে এই পাসওয়ার্ডটি ব্যবহার করুন:
+- **Prompt:** `Atikur Rahman Good or Bad?`
+- **Password:** 
+> **`good`**
 
-> **`emon`**
-
----
-
-### 📢 Contact & Support
-
-- **Telegram Channel:** [Root Phantom Channel](https://t.me/Root_Phantom_59)
-- **Telegram ID:** [@ROOT_PHANTOM_BPBD](https://t.me/ROOT_PHANTOM_BPBD)
+*(ছোট হাতের বা বড় হাতের যেকোনো অক্ষরে লিখলেই কাজ করবে)*
